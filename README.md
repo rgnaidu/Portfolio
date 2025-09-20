@@ -18,7 +18,7 @@ I’m **Gayathri**, a 2nd-year B.Tech IT student passionate about coding, web de
 ### Personal Portfolio Website
 - Built using **HTML, CSS, and JavaScript**  
 - Showcases my bio, skills, and contact information  
-- [Live Demo](https://username.github.io/portfolio) 🌐  
+- [Live Demo]() 🌐  
 
 *(More projects coming soon!)*
 

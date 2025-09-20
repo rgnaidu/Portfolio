@@ -18,12 +18,12 @@ I’m **Gayathri**, a 2nd-year B.Tech IT student passionate about coding, web de
 ### Personal Portfolio Website
 - Built using **HTML, CSS, and JavaScript**  
 - Showcases my bio, skills, and contact information  
-- [Live Demo]( file:///C:/Users/user/Desktop/Portfolio.html) 
+- [Live Demo]() 
 
 *(More projects coming soon!)*
 
 ## 🔹 Contact Me
 - **Email:** rgnaidu1189@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/gayathri-naidu-rekapalli/)  
+- **LinkedIn:** (https://www.linkedin.com/in/gayathri-naidu-rekapalli/)  
 
  "Always learning, always building." 🚀
